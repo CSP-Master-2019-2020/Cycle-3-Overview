@@ -17,6 +17,6 @@ The Create Task (along with the Explore Task) are the only assessed components 
 
 The deadline for completing all three components and uploading them to your Digital Portfolio is 8:59 PM on Tuesday the 26th of May.
 
-You can find the slides from today’s Zoom session [here]().
+You can find the slides from today’s Zoom session [here](https://docs.google.com/presentation/d/1icyptl2yx-HR2ppZYTrsQ0HtbfQ6S5miQPxwXshINrM/edit?usp=sharing.
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
