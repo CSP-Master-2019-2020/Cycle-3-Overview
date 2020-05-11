@@ -16,6 +16,6 @@ This template is the boilerplate for a single Canvas page.
    - Use the GitHub pages URL of this repository as the ```src``` artribute of the ```iframe``` tag.
 1. Edit ```docs/_data/page.yml``` to reflect the parameters of this page. Custom values may be added, they can be referenced in [Liquid][] code as ```site.data.page.valueName```.
 
-**Note that there is the potential for confusion between the Jekyll/Liquid use ef the term "page" and the Canvas usage.
+**Note that there is the potential for confusion between the Jekyll/Liquid use ef the term "page" and the Canvas usage.**
 
 [liquid]: <https://shopify.github.io/liquid/>
